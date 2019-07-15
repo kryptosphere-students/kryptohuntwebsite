@@ -1,2 +1,2 @@
 # kryptohuntwebsite
-Our kryptohunt project's website
+Our KRYPTO_HUNT project's website.
