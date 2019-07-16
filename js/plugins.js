@@ -1,17 +1,4 @@
-/** 
- * ===================================================================
- * javascript plugins
- *
- * ------------------------------------------------------------------- 
- */
 
-/*!
-Mailchimp Ajax Submit
-jQuery Plugin
-Author: Siddharth Doshi
-
-Use:
-===
 $('#form_id').ajaxchimp(options);
 
 - Form should have one <input> element with attribute 'type=email'
